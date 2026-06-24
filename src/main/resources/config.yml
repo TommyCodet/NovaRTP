@@ -1,0 +1,23 @@
+gui:
+  title: "&bNovaRTP"
+
+dimensions:
+
+  overworld:
+    enabled: true
+    min-radius: 1000
+    max-radius: 5000
+
+  nether:
+    enabled: true
+    min-radius: 500
+    max-radius: 3000
+
+  end:
+    enabled: true
+    min-radius: 1000
+    max-radius: 4000
+
+messages:
+  teleporting: "&aDu wurdest zufällig teleportiert."
+  no-safe-location: "&cKeine sichere Position gefunden."
