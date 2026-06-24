@@ -1,0 +1,15 @@
+name: NovaRTP
+version: 1.0
+main: de.tommyyt.novartp.NovaRTP
+api-version: '1.21'
+
+author: TommyYT_
+
+commands:
+  rtp:
+    description: Open RTP GUI
+    permission: novartp.use
+
+permissions:
+  novartp.use:
+    default: true
